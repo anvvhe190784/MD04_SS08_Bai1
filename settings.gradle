@@ -1,0 +1,3 @@
+rootProject.name = 'MD04_SS08_Bai1'
+include 'doctor-service'
+include 'appointment-service'
